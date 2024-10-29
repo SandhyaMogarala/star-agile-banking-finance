@@ -1,1 +1,1 @@
-
+ansiblePlaybook credentialsId: 'terraform-ansible', disableHostKeyChecking: true, installation: 'ansible', inventory: 'inventory', playbook: 'ansibleplaybook.ansible', vaultTmpPath: ''
